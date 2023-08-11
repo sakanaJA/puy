@@ -3,12 +3,10 @@ class Config {}
 Config.puyoImgWidth = 40; // ぷよぷよ画像の幅
 Config.puyoImgHeight = 40; // ぷよぷよ画像の高さ
 
-Config.fontHeight = 33;
- if(/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)) {
-    Config.stageCols = 6; // ステージの横の個数
-  } else{
+Config.fontHeight = 6;
+
 	  Config.stageRows = 18; // ステージの縦の個数
-  }
+  
 
 // フィールドサイズ追加
 // 高さが全部入るように調整
