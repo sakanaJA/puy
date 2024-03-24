@@ -5,7 +5,7 @@ Config.puyoImgHeight = 40; // ぷよぷよ画像の高さ
 
 Config.fontHeight = 6;
 
-	  Config.stageRows = 18; // ステージの縦の個数
+	  Config.stageRows = 10; // ステージの縦の個数
   
 
 // フィールドサイズ追加
